@@ -6,6 +6,7 @@ export const User = () => {
             <h2>User_1</h2>
             <h2>User_2</h2>
             <h2>User_3</h2>
+            <h2>User_4</h2>
         </div>
     )
 }
